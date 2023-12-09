@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moreinfoh.github.io/sitemapx.xml
